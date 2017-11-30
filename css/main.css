@@ -1,0 +1,11 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+image-flex {
+  display: block;
+  width: 100%;
+}
